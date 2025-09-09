@@ -8,7 +8,7 @@ O efeito é obtido através de uma combinação de:
 * **`@keyframes`**: para animar a rotação do gradiente e dar o efeito de movimento.
 
 ## 🚀 Acesse o Site
-
+https://aleksandraberto.github.io/BordasEffeitoAnimado-repositorio/
 
 
 ## 📂 Estrutura do projeto
